@@ -53,7 +53,7 @@ Un sistema de gestión de turnos donde clientes solicitan servicios, operadores 
 
 Diseñado con patrones de diseño como Singleton, Prototype, Adapter y Bridge para asegurar una arquitectura flexible y mantenible. El componente central, GestorTurnos, controla la creación, modificación y seguimiento de los turnos, garantizando una única instancia del sistema. Los turnos pueden clonarse fácilmente mediante plantillas (Prototype), mientras que las notificaciones a los usuarios se gestionan de forma desacoplada gracias al patrón Bridge, permitiendo el envío por distintos canales como SMS, email o app. Además, el sistema puede integrarse con diferentes tecnologías de visualización mediante Adapter, y ofrece funcionalidades adicionales como reasignación de turnos no atendidos y registro de estadísticas para análisis posterior, cubriendo así todo el ciclo operativo desde la solicitud hasta la atención y monitoreo.
 
-![clases](https://github.com/user-attachments/assets/704777e2-211e-4241-abc5-29f10b6149c8)
+![clasesssssss](https://github.com/user-attachments/assets/ee0d4a91-8955-48c3-8313-e5b60d5434fa)
 
 ## Diagrama de implementacion
 
